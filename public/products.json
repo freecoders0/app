@@ -1,0 +1,273 @@
+
+[
+  {
+    "image": "https://example.com/app1.png",
+    "title": "TaskMaster Pro",
+    "companyName": "NovaTech Solutions",
+    "id": 1,
+    "description": "TaskMaster Pro is a productivity app built to help individuals and teams organize their work with greater clarity and efficiency. It allows you to create, prioritize, and manage tasks with ease while offering an intuitive layout that keeps your workflow simple and clean. Users can categorize projects, set recurring deadlines, and receive smart reminders to stay on track without feeling overwhelmed.\n\nThe app goes beyond traditional task management by providing real-time analytics and progress insights. You can visualize your performance over time, identify productivity patterns, and improve your work habits accordingly. Its collaboration tools also enable seamless teamwork — users can assign tasks, comment on updates, and synchronize progress across devices through secure cloud storage.\n\nTaskMaster Pro integrates effortlessly with tools like Google Workspace, Microsoft Teams, and Slack, helping teams unify their workflow. Whether you're managing a startup project, planning daily routines, or coordinating large-scale operations, TaskMaster Pro ensures every step is organized, measurable, and productive.",
+    "size": 45,
+    "reviews": 1320,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 380 },
+      { "name": "5 star", "count": 715 }
+    ]
+  },
+  {
+    "image": "https://example.com/app2.png",
+    "title": "PhotoVerse Editor",
+    "companyName": "PixelLabs",
+    "id": 2,
+    "description": "PhotoVerse Editor is an AI-powered photo editing application designed for creators who value both quality and simplicity. With a collection of professional tools, it enables users to enhance, retouch, and transform images instantly. The interface is clean and accessible, making it ideal for photographers, designers, and social media enthusiasts alike.\n\nEquipped with intelligent filters, customizable layers, and a one-tap background remover, PhotoVerse makes complex edits feel effortless. Users can manipulate lighting, colors, and depth with precision, while the AI engine automatically adjusts imperfections for a polished finish. Its performance-driven design ensures edits are fast and smooth, even on lower-end devices.\n\nPhotoVerse also connects with popular cloud platforms and social networks, allowing users to save and share creations in seconds. Whether you're perfecting portraits or creating marketing visuals, PhotoVerse Editor helps you produce professional-grade results without the steep learning curve.",
+    "size": 82,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 470 },
+      { "name": "5 star", "count": 1300 }
+    ]
+  },
+  {
+    "image": "https://example.com/app3.png",
+    "title": "FitTrack",
+    "companyName": "Healthly Co.",
+    "id": 3,
+    "description": "FitTrack is your personal health assistant that helps you take control of your fitness journey. It offers precise tracking of workouts, calories, steps, and more — giving you the insights you need to stay consistent. The app’s simple dashboard lets you monitor your progress at a glance while offering goal-based recommendations that adapt to your routine.\n\nDesigned for all fitness levels, FitTrack integrates with smartwatches and health devices to give real-time updates on your activity. It also includes a nutrition tracker and hydration reminders, ensuring your fitness plan remains balanced and sustainable. Personalized progress charts and streaks help you stay motivated day after day.\n\nWith community challenges, expert tips, and data-driven analytics, FitTrack encourages a healthier, more mindful lifestyle. Whether you're training for a marathon or simply improving daily habits, FitTrack keeps you inspired and accountable every step of the way.",
+    "size": 60,
+    "reviews": 1780,
+    "ratingAvg": 4.5,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 850 }
+    ]
+  },
+  {
+    "image": "https://example.com/app4.png",
+    "title": "NoteCraft",
+    "companyName": "Orion Softworks",
+    "id": 4,
+    "description": "NoteCraft is an intelligent note-taking app built for those who value organization and creativity. It offers a seamless space to capture ideas, write notes, and record voice memos — all in one place. Users can type, draw, or handwrite notes, making it versatile for students, professionals, and creators alike.\n\nThe app comes equipped with cloud synchronization, allowing you to access your notes anytime, anywhere. Its smart search and tag system help you find information quickly, while collaboration tools let teams share and edit notes in real time. You can even record lectures or meetings and automatically transcribe them into text for easy review.\n\nWhether you're drafting an essay, planning a project, or journaling daily thoughts, NoteCraft provides the structure and flexibility you need. Its elegant interface and reliable sync make it a must-have tool for productivity in the modern digital world.",
+    "size": 30,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://example.com/app5.png",
+    "title": "EduMate",
+    "companyName": "Learnify Tech",
+    "id": 5,
+    "description": "EduMate is a modern e-learning platform that brings teachers and students together in an interactive environment. It offers a variety of online courses, quizzes, and live sessions that make learning accessible from anywhere. The app’s user-friendly design ensures that both beginners and advanced learners can navigate lessons smoothly.\n\nWhat sets EduMate apart is its emphasis on engagement and collaboration. Learners can attend live classes, participate in discussion boards, and track their progress with detailed analytics. Teachers can create personalized content, assign tasks, and evaluate student performance efficiently. With built-in notifications, no one misses an important session or deadline.\n\nEduMate supports video lectures, file sharing, and integrated payment options for premium courses. Whether you’re preparing for exams or developing new professional skills, EduMate transforms education into a connected and rewarding digital experience.",
+    "size": 95,
+    "reviews": 3400,
+    "ratingAvg": 4.7,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 690 },
+      { "name": "5 star", "count": 2120 }
+    ]
+  },
+  {
+    "image": "https://example.com/app6.png",
+    "title": "QuickBudget",
+    "companyName": "FinSmart Labs",
+    "id": 6,
+    "description": "QuickBudget is a personal finance management app designed to help users track spending, plan budgets, and achieve savings goals. It provides an intuitive breakdown of income and expenses so you can make informed financial decisions every day. The clean interface and real-time updates ensure that managing money feels simple, not stressful.\n\nUsers can set monthly goals, monitor bills, and receive instant alerts when they exceed spending limits. The app’s smart analytics feature visualizes your financial trends, giving you deeper insight into where your money goes. You can also categorize expenses and view detailed charts that promote better budgeting habits.\n\nWhether you’re saving for a trip, paying off debt, or managing a family budget, QuickBudget makes financial control accessible. With data encryption and cloud backup, your financial information stays safe while you stay in charge.",
+    "size": 41,
+    "reviews": 890,
+    "ratingAvg": 4.3,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 290 }
+    ]
+  },
+  {
+    "image": "https://example.com/app7.png",
+    "title": "TripExplorer",
+    "companyName": "GlobeTech",
+    "id": 7,
+    "description": "TripExplorer is the ultimate companion for travelers who love discovering new places. It helps users plan, book, and organize trips with AI-based route recommendations and destination insights. From solo adventures to family vacations, TripExplorer ensures your journey is smooth and unforgettable.\n\nThe app features flight and hotel comparisons, itinerary creation, and local activity suggestions tailored to your interests. You can track expenses, view weather forecasts, and even connect with fellow travelers through its in-app community. Offline maps and travel reminders make it useful even without internet access.\n\nWith TripExplorer, you can document your travel memories through photos, notes, and shared experiences. Its modern design, accuracy, and real-time updates make it an essential tool for both casual travelers and professionals on the go.",
+    "size": 75,
+    "reviews": 1600,
+    "ratingAvg": 4.6,
+    "downloads": 460000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 460 },
+      { "name": "5 star", "count": 770 }
+    ]
+  },
+  {
+    "image": "https://example.com/app8.png",
+    "title": "CodePlayground",
+    "companyName": "DevHub Studio",
+    "id": 8,
+    "description": "CodePlayground is a powerful platform where developers can write, test, and share code in real time. It supports multiple programming languages, making it a versatile environment for both beginners and experts. With its lightweight interface, users can focus entirely on code without distractions.\n\nThe app includes syntax highlighting, instant output display, and collaborative editing. You can debug, experiment, or demonstrate code to others easily. Its secure sandbox environment ensures that all code executions happen safely and efficiently, whether on mobile or desktop.\n\nFor students, professionals, and educators, CodePlayground serves as an essential resource for learning and sharing programming concepts. It bridges the gap between coding theory and practice, enabling users to grow their skills on the go.",
+    "size": 58,
+    "reviews": 2300,
+    "ratingAvg": 4.9,
+    "downloads": 710000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 370 },
+      { "name": "5 star", "count": 1720 }
+    ]
+  },
+  {
+    "image": "https://example.com/app9.png",
+    "title": "MusicFlow",
+    "companyName": "BeatVerse Inc.",
+    "id": 9,
+    "description": "MusicFlow is an immersive music streaming platform that puts millions of songs at your fingertips. Whether you love pop, classical, or indie, MusicFlow delivers high-quality audio with smart recommendations based on your listening habits. The elegant interface makes discovering and managing your favorite playlists effortless.\n\nUsers can create custom playlists, download tracks for offline listening, and explore artist-curated stations. The app also features a built-in equalizer, lyrics view, and sleep timer for a personalized experience. Its AI engine learns from your preferences to continually refine song suggestions.\n\nMusicFlow supports social sharing, allowing users to follow friends and discover new music together. With regular updates, stable streaming, and a massive catalog, MusicFlow is designed for anyone who truly loves music.",
+    "size": 105,
+    "reviews": 5600,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 3450 }
+    ]
+  },
+  {
+    "image": "https://example.com/app10.png",
+    "title": "NewsPulse",
+    "companyName": "ByteMedia",
+    "id": 10,
+    "description": "NewsPulse is a real-time news aggregation app that keeps you connected to global events. It provides curated stories from trusted sources, covering politics, business, technology, and entertainment. The customizable interface lets you choose what matters most to you.\n\nBreaking news alerts ensure you never miss important updates, while detailed analytics help you explore trends shaping the world. Users can bookmark articles, adjust region preferences, and receive summaries for quick reading. NewsPulse also includes dark mode and offline access for convenience.\n\nWith a focus on accuracy and speed, NewsPulse has become a favorite for readers who value reliable journalism. Whether for work or personal interest, it delivers the world’s news right to your device.",
+    "size": 50,
+    "reviews": 800,
+    "ratingAvg": 4.1,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "image": "https://example.com/app11.png",
+    "title": "MindSpace",
+    "companyName": "CalmSoft",
+    "id": 11,
+    "description": "MindSpace is a mindfulness and meditation app designed to help users achieve mental clarity and relaxation. Through guided meditations, breathing exercises, and sleep sounds, it promotes emotional balance and stress relief. The interface is calm and minimal, reflecting the essence of mindfulness.\n\nThe app offers personalized meditation sessions based on your goals — whether to sleep better, improve focus, or reduce anxiety. You can track your mood, set daily reminders, and monitor progress through visual insights. Expert-led content ensures each session feels professional and effective.\n\nMindSpace also integrates with wearable devices to analyze your heart rate and relaxation trends. It’s a perfect choice for individuals seeking peace in their busy lives through mindfulness and self-care.",
+    "size": 62,
+    "reviews": 2400,
+    "ratingAvg": 4.8,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 1610 }
+    ]
+  },
+  {
+    "image": "https://example.com/app12.png",
+    "title": "LangHero",
+    "companyName": "LingoWorks",
+    "id": 12,
+    "description": "LangHero is an interactive language learning app that helps users master over 30 languages through games, conversations, and speech recognition. It’s designed for learners of all levels, offering a mix of fun and practical exercises that accelerate progress.\n\nEach lesson combines vocabulary, grammar, and pronunciation in a dynamic, gamified format. The built-in AI tutor listens to your pronunciation and provides instant feedback, ensuring you speak naturally and confidently. Users can also practice real conversations with native speakers via chat or voice.\n\nLangHero’s community-driven approach and progress tracking make learning consistent and engaging. Whether you’re preparing for travel, studies, or work abroad, LangHero turns language learning into an exciting daily habit.",
+    "size": 120,
+    "reviews": 3900,
+    "ratingAvg": 4.9,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 680 },
+      { "name": "5 star", "count": 2760 }
+    ]
+  },
+  {
+    "image": "https://example.com/app13.png",
+    "title": "ShopEase",
+    "companyName": "Retailo Tech",
+    "id": 13,
+    "description": "ShopEase is a smart shopping app designed to make online purchases faster and safer. It offers exclusive deals, quick delivery tracking, and a seamless checkout process that simplifies your shopping experience. Users can explore thousands of products across categories like fashion, electronics, and home essentials.\n\nThe app features personalized recommendations and secure payment gateways, giving users both convenience and confidence. Real-time order updates, customer reviews, and a responsive help center ensure transparency from start to finish. Loyalty rewards and cashback offers make every purchase more rewarding.\n\nShopEase’s clean interface and smooth navigation make it ideal for shoppers of all ages. With frequent discounts and fast delivery options, it redefines how people shop online today.",
+    "size": 88,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 810 },
+      { "name": "5 star", "count": 1790 }
+    ]
+  },
+  {
+    "image": "https://example.com/app14.png",
+    "title": "WeatherCast",
+    "companyName": "ClimaSoft",
+    "id": 14,
+    "description": "WeatherCast provides real-time weather updates, forecasts, and severe weather alerts with exceptional accuracy. Its elegant design gives users clear insights into daily and weekly forecasts, temperature trends, and radar maps. Whether you’re planning a trip or just your outfit, WeatherCast keeps you informed.\n\nThe app utilizes advanced meteorological data and satellite imagery to ensure precision. Users can customize alerts for specific locations and receive push notifications for rain, storms, or temperature changes. The live radar and air quality index add depth to your weather insights.\n\nWeatherCast’s minimal interface and fast performance make it suitable for every user. With support for multiple regions and offline access, it’s the perfect weather companion wherever you go.",
+    "size": 35,
+    "reviews": 1500,
+    "ratingAvg": 4.5,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 710 }
+    ]
+  },
+  {
+    "image": "/src/assets/demo-app (15).jpeg",
+    "title": "HomeHub",
+    "companyName": "SmartLiving Inc.",
+    "id": 15,
+    "description": "HomeHub is a smart home control app that unifies all your IoT devices in one place. It allows you to manage lighting, security cameras, thermostats, and more from anywhere. The intuitive dashboard provides instant access to each device, letting you automate daily routines with ease.\n\nHomeHub supports voice assistants like Alexa and Google Home, enabling hands-free control. Users can create schedules, monitor energy usage, and receive alerts for unusual activity. The app’s AI automation suggests optimal settings based on your habits, saving energy and improving comfort.\n\nBuilt with security and reliability in mind, HomeHub encrypts all communications between your devices. Whether you’re at home or away, you can enjoy peace of mind knowing your home is always connected and protected.",
+    "size": 70,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 560000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 1280 }
+    ]
+  }
+]
