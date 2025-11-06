@@ -54,7 +54,7 @@ const Installation = () => {
             <figure>
               <img
                 className="max-w-[100px] "
-                src={`/src/assets/demo-app (${inApp.id}).jpeg`}
+                src={`/demo-app (${inApp.id}).jpeg`}
                 alt="Movie"
               />
             </figure>
@@ -66,7 +66,7 @@ const Installation = () => {
                   <div className=" flex  justify-center items-center flex-row ml-1">
                     <img
                       className="max-w-auto "
-                      src="/src/assets/icon-downloads.png"
+                      src="/icon-downloads.png"
                       alt=""
                       srcset=""
                     />
@@ -77,7 +77,7 @@ const Installation = () => {
                   <div className=" flex   justify-center items-center flex-row ml-1">
                     <img
                       className="max-w-auto  "
-                      src="/src/assets/icon-review.png"
+                      src="/icon-review.png"
                       alt=""
                       srcset=""
                     />

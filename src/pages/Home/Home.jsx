@@ -43,7 +43,7 @@ const Home = () => {
             </a>
           </div>
 
-          <img src="/src/assets/hero.png" className="mt-5" alt="" srcset="" />
+          <img src="/hero.png" className="mt-5" alt="" srcset="" />
         </div>
       </div>
       <div className="flex h-[60vh] bg-blue-700 flex-col justify-center items-center ">

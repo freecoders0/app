@@ -7,7 +7,7 @@ const Product = ({ product }) => {
     <div className="card bg-base-100 shadow-lg p-3 hover:scale-105 transition ease-in ">
       <Link to={`/app/${id}`}>
         <figure>
-          <img src={`/src/assets/demo-app (${id}).jpeg`} alt="Shoes" />
+          <img src={`/demo-app (${id}).jpeg`} alt="Shoes" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">{title}</h2>

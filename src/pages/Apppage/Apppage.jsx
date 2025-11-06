@@ -10,7 +10,7 @@ const Apppage = () => {
   const term = search.trim().toLocaleLowerCase();
   const searchproducts = term
     ? products.filter((searchproduct) =>
-        searchproduct.companyName.toLocaleLowerCase().includes(term)
+        searchproduct.title.toLocaleLowerCase().includes(term)
       )
     : products;
 

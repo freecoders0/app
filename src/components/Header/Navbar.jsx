@@ -44,7 +44,7 @@ const Navbar = () => {
           <a className="btn btn-ghost text-xl text-[#632EE3] " href="/">
             <img
               className="w-auto max-h-[60px] "
-              src="/src/assets/logo.png"
+              src="/logo.png"
               alt=""
               srcset=""
             />{" "}

@@ -1,7 +1,7 @@
 
 [
   {
-    "image": "https://example.com/app1.png",
+    "image": "/src/assets/demo-app (1).jpeg",
     "title": "TaskMaster Pro",
     "companyName": "NovaTech Solutions",
     "id": 1,
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "image": "https://example.com/app2.png",
+    "image": "/src/assets/demo-app (2).jpeg",
     "title": "PhotoVerse Editor",
     "companyName": "PixelLabs",
     "id": 2,
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "image": "https://example.com/app3.png",
+    "image": "/src/assets/demo-app (3).jpeg",
     "title": "FitTrack",
     "companyName": "Healthly Co.",
     "id": 3,
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "image": "https://example.com/app4.png",
+    "image": "/src/assets/demo-app .jpeg4.png",
     "title": "NoteCraft",
     "companyName": "Orion Softworks",
     "id": 4,
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "image": "https://example.com/app5.png",
+    "image": "/src/assets/demo-app .jpeg5.png",
     "title": "EduMate",
     "companyName": "Learnify Tech",
     "id": 5,
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "image": "https://example.com/app6.png",
+    "image": "/src/assets/demo-app .jpeg6.png",
     "title": "QuickBudget",
     "companyName": "FinSmart Labs",
     "id": 6,
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "image": "https://example.com/app7.png",
+    "image": "/src/assets/demo-app .jpeg7.png",
     "title": "TripExplorer",
     "companyName": "GlobeTech",
     "id": 7,
@@ -127,7 +127,7 @@
     ]
   },
   {
-    "image": "https://example.com/app8.png",
+    "image": "/src/assets/demo-app .jpeg8.png",
     "title": "CodePlayground",
     "companyName": "DevHub Studio",
     "id": 8,
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "image": "https://example.com/app9.png",
+    "image": "/src/assets/demo-app .jpeg9.png",
     "title": "MusicFlow",
     "companyName": "BeatVerse Inc.",
     "id": 9,
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "image": "https://example.com/app10.png",
+    "image": "/src/assets/demo-app .jpeg10.png",
     "title": "NewsPulse",
     "companyName": "ByteMedia",
     "id": 10,
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "image": "https://example.com/app11.png",
+    "image": "/src/assets/demo-app .jpeg11.png",
     "title": "MindSpace",
     "companyName": "CalmSoft",
     "id": 11,
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "image": "https://example.com/app12.png",
+    "image": "/src/assets/demo-app .jpeg12.png",
     "title": "LangHero",
     "companyName": "LingoWorks",
     "id": 12,
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "image": "https://example.com/app13.png",
+    "image": "/src/assets/demo-app .jpeg13.png",
     "title": "ShopEase",
     "companyName": "Retailo Tech",
     "id": 13,
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "image": "https://example.com/app14.png",
+    "image": "/src/assets/demo-app .jpeg14.png",
     "title": "WeatherCast",
     "companyName": "ClimaSoft",
     "id": 14,
